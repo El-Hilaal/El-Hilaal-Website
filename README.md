@@ -3,4 +3,4 @@
 -----
 
 # El-Hilaal Website
-Static El-Hilaal website 
+- contact: beheer@elhilaal.nl 
